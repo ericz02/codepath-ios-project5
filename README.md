@@ -1,10 +1,10 @@
 # Project 5 - *TUMBLR*
 
-Submitted by: **JERRYAVILES**
+Submitted by: **Eric Zheng**
 
-**TUMBLR** is an app that ... [TODO] 
+**TUMBLR** is an microblogging and social networking platform that allows users to share multimedia content and short posts with a focus on personal expression and community engagement.
 
-Time spent: **3** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -25,14 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div>
-    <a href="https://www.loom.com/share/c7391f600e664a5eac3a292987366c85">
-      <p>Loom Message - 20 October 2023 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/c7391f600e664a5eac3a292987366c85">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c7391f600e664a5eac3a292987366c85-with-play.gif">
-    </a>
-  </div>
+
 
 ## Notes
 
@@ -40,7 +33,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Eric Zheng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
